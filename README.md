@@ -22,19 +22,20 @@ H = [TEBESAR C]
 I = [SELESAI]
 
 ## Kode Progrogram
- menerima tiga input bilangan, kemudian menggunakan struktur percabangan `if-elif-else` untuk menentukan bilangan mana yang paling besar.
+ menerima tiga input bilangan, kemudian menggunakan struktur percabangan `if-elif-else` untuk menentukan
+ bilangan mana yang paling besar.
 
-1. Jalankan mengunakan terminal
-2. buatkan terminal baru (new terminal)
-## 3. ![alt text](ss/image-3.png)
-3. Jalankan lankah-lankahanya melalui terminal untuk simpan project ini ke Github
-## 3. ![alt text](ss/image-4.png)
-
-1. Memasukan file praktikumnya ke akun github
+ 1. Memasukan file praktikumnya ke akun github
 2. Buatkan new repository 
 3. Simpan file dengan nama praktikum 3
 ## 3. ![alt text](ss/image-5.png)
 
+1. Jalankan mengunakan terminal
+2. buatkan terminal baru (new terminal)
+## 4. ![alt text](ss/image-3.png)
+3. Jalankan lankah-lankahanya melalui terminal untuk simpan project ini ke Github
+## 5. ![alt text](ss/image-4.png)
+
 1. File tersimpan di repository Github
-## 4. ![alt text](ss/image.png)
+## 6. ![alt text](ss/image.png)
 # Selesai
