@@ -24,7 +24,7 @@ I = [SELESAI]
 ## Kode Progrogram
  menerima tiga input bilangan, kemudian menggunakan struktur percabangan `if-elif-else` untuk menentukan bilangan mana yang paling besar.
 
-1. Jalankan mengunakan termeninal
+1. Jalankan mengunakan terminal
 2. buatkan terminal baru (new terminal)
 ## 3. ![alt text](ss/image-3.png)
 3. Jalankan lankah-lankahanya melalui terminal untuk simpan project ini ke Github
