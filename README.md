@@ -12,18 +12,18 @@ Menentukan bilangan terbesar dari tiga buah bilangan yang di masukan denan mengg
 
 1. Jalankan mengunakan termeninal
 2. buatkan terminal baru (new terminal)
-3. jalankan lankah-lankahnya untuk simpan project ini ke github
 ## 2. ![alt text](image-3.png)
+3. Jalankan lankah-lankahanya melalui terminal untuk simpan project ini ke Github
+## 2. ![alt text](image-4.png)
 
-
+## 3. ![alt text](image-5.png)
 1. Memasukan file praktikumnya ke akun github
 2. Buatkan new repository 
 3. Simpan file dengan nama praktikum 3
-## 2. ![alt text](image.png)
 
 
 ## Flowchart
-## 3. ![alt text](image-2.png)
+## 4. ![alt text](image-2.png)
 A = [MULAI] 
 B = [INPUT]
 C = [BILANGAN A,B,C]
